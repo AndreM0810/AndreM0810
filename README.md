@@ -14,7 +14,7 @@ All coding projects are built from the ground up, from planing and designing all
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AndreM0810?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
     </a>
 </p>
-br
+
 ---
 
 ### 🧰 Languages and Tools

@@ -6,6 +6,8 @@ I'm a self-taught programmer eager to learn more and more.
 I mainly code in Python, but I'm familiar with other languagess too.
 All coding projects are built from the ground up, from planing and designing all the way to (reaserching) and solving real-life problems.
 
+I'm also fluent in Portuguese and English and I can manage a little bit os Spanish
+
 <p align="left">
     <a href="https://github.com/AndreM0810?tab=followers">
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AndreM0810?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
@@ -54,7 +56,7 @@ All coding projects are built from the ground up, from planing and designing all
 #
 
 <details>
- <summary><h3>👨‍💻 André's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
    I started my coding journey as a naive kid/teen, just marveling at the power of computers, not just what they could do. but what could i tell them to do.
    I learned about the python language, looked up a random tutorial on YouTube, and was instantly blown away by what I saw.
 

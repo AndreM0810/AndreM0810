@@ -49,7 +49,7 @@ I'm also fluent in Portuguese and English and I can manage a little bit os Spani
 
 ### 📊 Stats
 
-![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreM0810&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreM0810&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AndreM_0810&theme=tokyonight&border_radius=4.5)
 

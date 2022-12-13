@@ -10,11 +10,11 @@ All coding projects are built from the ground up, from planing and designing all
     <a href="https://github.com/AndreM0810?tab=followers">
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AndreM0810?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
-    <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+    <a href="https://github.com/AndreM0810?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AndreM0810?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
     </a>
 </p>
-
+br
 ---
 
 ### 🧰 Languages and Tools
@@ -60,7 +60,7 @@ All coding projects are built from the ground up, from planing and designing all
 
    I wrote a Hello World program (of course) and my excitement was through the roof. After that I wrote a couple of pther simple scripts and moved on with my life.
 
-   A few days later I saw another python tutorial, this time it was someone coding a terminal version of Tic-Tac-Toe. "Wait... THAT'S HOW YOU MAKE GAMES?!?!" I was, once again, thrilled.
+   A few days later I saw another python tutorial, this time it was someone coding a terminal version of Tic-Tac-Toe. "Wait... THAT'S HOW YOU MAKE GAMES?!?!". Well, that is one way to do it, however I was, once again, thrilled.
 
    From then on I never stopped coding and kept learning and improving everyday a little more.
 

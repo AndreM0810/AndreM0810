@@ -67,3 +67,6 @@ I'm also fluent in Portuguese and English and I can manage a little bit os Spani
    From then on I never stopped coding and kept learning and improving everyday a little more.
 
    Today I reached levels that I never thought I'd be able to, and for that reason I know I can improve even more. That is my goal.
+
+
+![snake gif](https://github.com/AndreM0810/AndreM0810/blob/output/github-contribution-grid-snake.gif)

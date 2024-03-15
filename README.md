@@ -12,7 +12,6 @@
 
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrem06_/)
 [![link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/andré-jesus-de-morais-a27142222)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AndreM0810&bg_color=b2d5e1&color=175054&line=2c8c8a&point=242424&area=true&hide_border=true)]()
 
 <h2> Tecnologias </h2>
 
